@@ -1,1 +1,1 @@
-0 12 * * * cd C:\Users\peter\Downloads\Accounts\Melody\bitcoin-master\bitcoin-master && python3 commit_bot.py
+0 12 * * * cd C:\Users\peter\Downloads\Accounts\Melody - 2\bitcoin-master\bitcoin-master && python3 commit_bot.py
